@@ -5,7 +5,7 @@ import Fitfull from '../images/Fitfull.png'
 import Secure from '../images/Secure.png'
 
 export const Bio = {
-  name: "Adity Agarwal",
+  name: "Aryan Raghuvanshi",
   roles: [
     "UI/UX Designer",
     "Full Stack Developer",
@@ -14,12 +14,12 @@ export const Bio = {
   ],
   description:
     "I am a passionate UI/UX designer, I specialize in crafting smooth, visually appealing user experiences. My goal is to make apps so user-friendly that even non-techy individuals feel naturally at ease. Proficient in transforming ideas into intuitive interfaces, I excel in blending aesthetics with functionality for enhanced digital products.",
-  github: "https://github.com/Aditya505050",
+  github: "https://github.com/ogaryan1818",
   resume:
-    "https://drive.google.com/file/d/1CuvAYZwWzCo1mqK6oZbLPsDdLpD3c1J5/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/aditya-agrawal-390723246/",
-  twitter: "https://twitter.com/Aditya505050",
-  insta: "https://www.instagram.com/mishi_2030/",
+    "https://drive.google.com/file/d/1c9joDyag9_WI6dQYXIuKm8HKg31bXMf-/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/ogaryan",
+  twitter: "https://twitter.com/og_aryan",
+  insta: "https://www.instagram.com/og_aryan",
   facebook: "",
 };
 
@@ -194,11 +194,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://cyberalliance.in/assets/img/logos/logo.300x900nobg.webp",
-    role: "UI/UX Designer Intern",
-    company: " Cyber Alliance, India",
-    date: "Sept 2022 - Nov 2023",
-    desc: "I led the development of new style guides prioritizing accessibility for diverse audiences, implemented strategies for optimal web responsiveness across devices, and managed a visual library aligned with accessibility standards. My design projects emphasized strong communication, teamwork, and a focus on accessibility and inclusivity. Collaborating with the UX Director and stakeholders, I ensured successful project completion and enhanced user experiences.",
+    img: "https://www.creativeagencies.org/wp-content/uploads/2017/07/big-bad-wolf-logo.png",
+    role: "Digital Marketing Intern",
+    company: " GENVAL, India",
+    date: "July 2023",
+    desc: "Between the months of June - July 2023, digital marketing course has covered a number of concepts and exploration on various topics and themes with an hands-on approach through the self-assessment oriented quiz at the outset, individual exercises, team contributed submissions, presentations, final project report submission. In all, over 60 hours have been spent in the conduct of the course. Out of this, about 12 hours had been allocated to final project presentation, report submission as well as team-wise evaluation of the same. While the duration of the daily weekday sessions was 1 hour, weekend sessions were for 2 to 2.5 hours.",
     skills: [
       "Figma",
       "Adobe XD",
@@ -210,29 +210,8 @@ export const experiences = [
       "CSS",
       "Tailwind",
     ],
-    doc: "https://drive.google.com/drive/folders/173rhm6kZYD1fqd-Pl7z_0tzbxlSaNdWP?usp=sharing",
-  },
-  {
-    id: 0,
-    img: "https://www.matterize.it/imgg/Menu%20Logo.webp",
-    role: "Web Developer Intern",
-    company: "MATTERIZE",
-    date: "June 2023 - Aug 2023",
-    desc: "During my internship, I conducted a thorough evaluation of current branding and products, applying theoretical design principles to develop detailed style guides for enhanced visual consistency. Presenting alternative designs honed my communication skills, and creating user-centric storyboards reinforced the strategic impact of prioritizing user experience in design decisions. This experience provided valuable insights into real-world applications of design theory and its practical implications.",
-    skills: [
-      "Figma",
-      "Sketch",
-      "Framer",
-      "Notion",
-      "Miro",
-      "Zeplin",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    doc: "https://drive.google.com/drive/folders/1kUVLsXNLfVUNujj4L-hhsdZMxj7jP7iq?usp=sharing",
-  },
-   
+    doc: "https://drive.google.com/file/d/1KT0e5Im0T80J8rKwJpSNYxNYgBO4OkA5/view?usp=sharing",
+  },   
 ];
 
 export const education = [
@@ -241,26 +220,26 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/800px-Vellore_Institute_of_Technology_seal_2017.svg.png",
     school: "Vellore Institute of Technology, Bhopal",
     date: "Aug 2020 - Aug 2024",
-    grade: "8.62 CGPA",
-    desc: "I am currently pursuing my Bachelor of Technology (B.Tech) degree from VIT, Bhopal, maintaining a CGPA of 8.62. My academic journey is deeply intertwined with the captivating world of technology and innovation. I am passionately driven to explore the realms of engineering, specifically focusing on UI/UX development. My dedication to acquiring knowledge and honing skills aligns with contributing to the ever-evolving landscape of technology. With a keen interest in crafting seamless user experiences and solving design challenges, I am committed to delving into, learning, and applying cutting-edge concepts in UI/UX development. My goal is to contribute to shaping a promising future in the technology field through intuitive and user-centric design solutions.",
+    grade: "7.86 CGPA",
+    desc: "I am currently pursuing my Bachelor of Technology (B.Tech) degree from VIT, Bhopal, maintaining a CGPA of 7.86. My academic journey is deeply intertwined with the captivating world of technology and innovation. I am passionately driven to explore the realms of engineering, specifically focusing on UI/UX development. My dedication to acquiring knowledge and honing skills aligns with contributing to the ever-evolving landscape of technology. With a keen interest in crafting seamless user experiences and solving design challenges, I am committed to delving into, learning, and applying cutting-edge concepts in UI/UX development. My goal is to contribute to shaping a promising future in the technology field through intuitive and user-centric design solutions.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
-    img: "http://cambridgecourthighschool.org/wp-content/uploads/2022/06/logo-4.png",
-    school: "Cambridge Court High School",
-    date: "May 2019",
-    grade: "73%",
-    desc: "I completed my 12th grade with a commendable 73% overall.While not the top scorer,I've embraced my academic journey with dedication and a strong thirst for knowledge. My commitment to learning has been consistent, and I am enthusiastic about stepping into the next thrilling chapter of my educational and professional pursuits.",
+    img: "https://scontent.fbho4-1.fna.fbcdn.net/v/t39.30808-6/312115066_476659594482077_2124721438901965913_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=KeB_iXOEHJ4AX85GCjf&_nc_ht=scontent.fbho4-1.fna&oh=00_AfCKrsK3fp3fw5XawqWb-TdPEGUJI_NNRvUGn7IsPPS6vA&oe=65768D9A",
+    school: "Sofia Convent School",
+    date: "May 2020",
+    grade: "75.4%",
+    desc: "I completed my 12th grade with a commendable 75.4% overall.While not the top scorer,I've embraced my academic journey with dedication and a strong thirst for knowledge. My commitment to learning has been consistent, and I am enthusiastic about stepping into the next thrilling chapter of my educational and professional pursuits.",
     degree: "CBSE(XII)",
   },
   {
     id: 2,
-    img: "http://cambridgecourthighschool.org/wp-content/uploads/2022/06/logo-4.png",
-    school: "Cambridge Court High School",
-    date: "May 2017",
-    grade: "8.4 CGPA",
-    desc: "Having achieved an 8.4 CGPA previously, my commitment to learning is steadfast as I stride into new educational paths.",
+    img: "https://scontent.fbho4-1.fna.fbcdn.net/v/t39.30808-6/312115066_476659594482077_2124721438901965913_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=KeB_iXOEHJ4AX85GCjf&_nc_ht=scontent.fbho4-1.fna&oh=00_AfCKrsK3fp3fw5XawqWb-TdPEGUJI_NNRvUGn7IsPPS6vA&oe=65768D9A",
+    school: "Sofia Convent School",
+    date: "May 2018",
+    grade: "80%",
+    desc: "Having achieved an 80% previously, my commitment to learning is steadfast as I stride into new educational paths.",
     degree: "CBSE(X)",
   },
 ];
@@ -268,32 +247,32 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Dormvitory",
-    date: "Mar 2023 - May 2023",
+    title: "NGen",
+    date: "Nov 2021 - Jan 2022",
     description:
-      "Designed a comprehensive full-stack application with the primary goal of addressing the challenges associated with hostel booking. The application establishes an intuitive interface catering to both students and administrators, streamlining the hostel booking process",
+      "Created an innovative Non-Fungible Token Generator that leverages cutting-edge Image layering techniques and generates any amount of unque NFTs you desire. This script can get fed as many layers of images as you’d like and it will seamlessly generate unique NFTs every time. The script uses PIL library in Python to execute majority of its  functions defines within it.",
     image:
      `${Dorm}`,
      tags: [
-      "PHP","HTML","CSS","JavaScript"
+      "Python", "Python Imaging", "json"
     ],
     category: "web app",
-    github: "https://github.com/Aditya505050/DormVit",
+    github: "https://github.com/ogaryan1818/NGen.git",
     webapp: "",
   },
   {
     id: 8,
-    title: "Cryptoverse",
-    date: "Nov 2021 - Jan 2022",
+    title: "SecureIt",
+    date: "March 2023 - May 2023",
     description:
-      "Created an innovative cryptocurrency analytics platform that leverages cutting-edge charting techniques and advanced data visualization. This platform facilitates seamless comparison and analysis of various cryptocurrency values, providing users with a user-friendly experience to gain insights into the dynamic cryptocurrency market.",
+      "Designed a facial Recognition Security system in Python which utilises multithreading, computer vision, deepface for recognizing the registered faces. It utilises a well-trained neural network to verify the integrity of the face. It was designed as a part of a 5 step security system which leads you through various security checks and you had to clear atleast 3 stages to pass.",
     image:
      `${Crypto}`,
     tags: [
-      "MERN"
+      "Python", "Computer Vision", "Multithreading"
     ],
     category: "web app",
-    github: "https://github.com/Aditya505050/CryptoVerse",
+    github: "https://github.com/ogaryan1818/SecureIt.git",
     webapp: "",
   },
   {
@@ -308,20 +287,20 @@ export const projects = [
       "HTML","CSS","JavaScript"
     ],
     category: "web app",
-    github: "https://github.com/Aditya505050/FitFull",
+    github: "https://github.com/ogaryan1818/Fitfull.git",
     webapp: "",
   },
   {
     id: 3,
-    title: "GoSecure",
+    title: "GestureEase",
     date: "Nov 2023 - ongoing ",
     description:
-      "Considering the importance of safety and security of women in India, I wanted to give it a try from my end to address the issue in a simpler and safer way. The app is about safety as well as awareness & makes the user safe & confident. It is easy to use because of it's user friendly and easy to navigate UI. I wanted to give them a tap on the shoulder to keep going and not give up! Keeping this mind I developed an application named GoSecure.",
+      "GesturEase is going to be a software which will significantly improve the was disabled people or any person uses a computer system. Creating a system that recognises and interprets a wide range of gestures in real time. We plan to fine-tune algorithms and procedures to achieve high precision in recognising and reliably responding to varied motions.",
     image:
      `${Secure}`,
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
+    tags: [" Python", "Neural Network", "Java", "React", "Machine Learning"],
     category: "android app",
-    github: "https://github.com/thishaaarsh/go_secure",
+    github: "",
     webapp: "",
   },
   
